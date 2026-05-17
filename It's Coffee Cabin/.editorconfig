@@ -1,0 +1,4 @@
+[*.vb]
+
+# BC40046: Type and partial type conflict, but are being merged because one of them is declared partial
+dotnet_diagnostic.BC40046.severity = error
