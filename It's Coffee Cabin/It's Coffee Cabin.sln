@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "It's Coffee Cabin", "It's Coffee Cabin\It's Coffee Cabin.vbproj", "{B88464A4-CED1-48A9-A9CC-765C294DD982}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC761443-4010-419F-B252-A0D70F99F1F7}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88464A4-CED1-48A9-A9CC-765C294DD982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88464A4-CED1-48A9-A9CC-765C294DD982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88464A4-CED1-48A9-A9CC-765C294DD982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88464A4-CED1-48A9-A9CC-765C294DD982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0AC3F7-7297-4443-8EF5-E089E451551C}
+	EndGlobalSection
+EndGlobal
